@@ -1,4 +1,4 @@
-FROM node:8
+FROM node:10
 
 LABEL version="1.0.0"
 LABEL repository="https://github.com/manishankar/EmberS3Deploy"
